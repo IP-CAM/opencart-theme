@@ -1,0 +1,1 @@
+2014-09-16 10:23:39 - PHP Notice:  Undefined variable: total in /home/kseguy/www/opencart/catalog/view/theme/default/template/module/cart.tpl on line 7
